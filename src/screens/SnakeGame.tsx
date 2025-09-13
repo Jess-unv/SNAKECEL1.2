@@ -1,4 +1,4 @@
-// src/screens/SnakeGame.tsx
+
 import React, { useCallback, useContext, useEffect, useRef, useState } from "react";
 import { View, Text, StyleSheet, Dimensions, TouchableOpacity } from "react-native";
 import { ThemeContext } from "../context/ThemeContext";
